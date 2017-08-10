@@ -1,0 +1,3 @@
+function valida() {
+	alert("teste");
+}
